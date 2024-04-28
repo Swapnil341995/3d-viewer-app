@@ -1,0 +1,12 @@
+header{
+    z-index: 2;
+    background-color: black;
+    height: 25px;
+    position: relative;
+}
+
+#id_headerText{
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+}
